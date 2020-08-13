@@ -1,0 +1,9 @@
+Hola Nico,
+
+Tu trabajo está muy bien!
+Cumple con todo lo solicitado, y está prolijo.
+
+Cuidado, esta parte es del bloque temático 2.
+En esta carpeta iría el código de los formularios HTML con las respuestas del servidor en .php.
+
+Abrazo!!
